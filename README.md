@@ -2,12 +2,6 @@
 
 An alternate woocommerce landing page built with Next14, Shadcn, and Tailwind.
 
-# ☁️ Deployed link
-https://alternate-woo-commerce-landing-page.vercel.app/
-
-
-Youtube:  https://youtu.be/7GpnOkeiK7M
-
 
 Figma:  https://www.figma.com/file/Wrcb4XWAWhrDCRlip4Fzpu/Woo-Landing-(Community)?type=design&node-id=0-1&mode=design&t=FCsWILcvbs6DqHAa-0
 
@@ -39,10 +33,6 @@ npm install && npm run dev
 ## Appreciation
 All thanks to ProduceUI on  figma community
 https://www.figma.com/@produce_ui
-
-## Author
-Built with love ❤️ by Pius Lucky https://luckypius.netlify.app/
-
 
 
 # woo-commerce-landing-page
